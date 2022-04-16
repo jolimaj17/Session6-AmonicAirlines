@@ -1,0 +1,9 @@
+C:\Users\CSTC\Documents\Visual Studio 2015\Projects\Session6\Session6\bin\Debug\Session6.exe.config
+C:\Users\CSTC\Documents\Visual Studio 2015\Projects\Session6\Session6\obj\Debug\Session6.exe
+C:\Users\CSTC\Documents\Visual Studio 2015\Projects\Session6\Session6\bin\Debug\Session6.exe
+C:\Users\CSTC\Documents\Visual Studio 2015\Projects\Session6\Session6\bin\Debug\Session6.pdb
+C:\Users\CSTC\Documents\Visual Studio 2015\Projects\Session6\Session6\obj\Debug\Session6.csprojResolveAssemblyReference.cache
+C:\Users\CSTC\Documents\Visual Studio 2015\Projects\Session6\Session6\obj\Debug\Session6.AMONICAirlines.resources
+C:\Users\CSTC\Documents\Visual Studio 2015\Projects\Session6\Session6\obj\Debug\Session6.Properties.Resources.resources
+C:\Users\CSTC\Documents\Visual Studio 2015\Projects\Session6\Session6\obj\Debug\Session6.csproj.GenerateResource.Cache
+C:\Users\CSTC\Documents\Visual Studio 2015\Projects\Session6\Session6\obj\Debug\Session6.pdb
